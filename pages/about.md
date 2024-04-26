@@ -16,5 +16,3 @@ credits: true
 
 This collection was created in the Spring 2024 Information Organization course taught by Micah Bateman. This project has familiarized me and my classmates with metadata practices and the basics of CollectionBuilder.  
 
-
-{% include cb/about_the_about.md %} 
