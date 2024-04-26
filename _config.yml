@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Glacier National Park 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: photos from a family trip to GNP
+tagline: photography from a family trip to GNP
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This digital collection features a selection of photos taken at Glacier National Park, or GNP, by myself and my mom, Jen Stephens."
+description: "This digital collection features a selection of photos taken by myself and my mom, Jen Stephens, at Glacier National Park, a.k.a. GNP. These photos display some of the wildlife, plant life, and landscapes that we saw on our trip."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Grace Stephens
 
