@@ -10,13 +10,11 @@ credits: true
 
 {% include feature/jumbotron.html objectid= GNP01 %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
 
 This collection was created in the Spring 2024 Information Organization course taught by Micah Bateman. This project has familiarized me and my classmates with metadata practices and the basics of CollectionBuilder.  
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 
 {% include cb/about_the_about.md %} 
